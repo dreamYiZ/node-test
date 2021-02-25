@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/dreamYiZ/node-test/issues"
   },
-  "homepage": "https://github.com/dreamYiZ/node-test#readme"
+  "homepage": "https://github.com/dreamYiZ/node-test#readme",
+	"type": "module"
 }
